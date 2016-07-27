@@ -1,0 +1,17 @@
+/*page login*/
+#login_page .mdl-card__title {
+    background-color: #3f51b5;
+    color: white;
+}
+
+#login_page .mdl-card {
+    margin: auto;
+}
+
+#login_page{
+    margin: 100px 0px 0px 0px;
+}
+
+#files_sender{
+    opacity: 0;
+}
