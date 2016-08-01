@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="113fffb2-1333-49ba-9210-48f80bc335f3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pictures/1466950770_profle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pictures/1466950775_profle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pictures/1466963446_boostrap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pictures/1466963472_MySQL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pictures/1466963645_MySQL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wall/1466950770_profle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wall/1466950775_profle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wall/1466963446_boostrap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wall/1466963472_MySQL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wall/1466963645_MySQL.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="photos.iws" />

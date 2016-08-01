@@ -27,7 +27,7 @@ $('#files_sender').bind('change', function(e){
 });
 function progressHandlingFunction(e){
     if(e.lengthComputable){
-        document.querySelector('#p1').MaterialProgress.setProgress(e.loaded/ e.total);
+        document.querySelector('#p1').MaterialProgress.setProgress((e.loaded/ e.total)*100);
     }
 }
 
