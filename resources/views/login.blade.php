@@ -21,7 +21,7 @@
             <div class="mdl-card__supporting-text">
                 <form method="post" action="{{route('auth')}}">
 
-
+                    <input type="hidden" name="_token" value="{{ csrf_token() }}">
                     <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
                         <input class="mdl-textfield__input" type="text" id="login" name="login">
                         <label class="mdl-textfield__label" for="login">Login</label>

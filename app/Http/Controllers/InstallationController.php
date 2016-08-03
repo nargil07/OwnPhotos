@@ -65,7 +65,6 @@ class InstallationController extends Controller
         $user->name = $request->input('user');
         $user->password = Hash::make($request->input('password'));
         $user->save();
-
         return redirect($url_to_go);
     }
 }
